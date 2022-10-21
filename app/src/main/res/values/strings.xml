@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="title_activity_walk_through">WalkThroughActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+</resources>
